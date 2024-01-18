@@ -1,6 +1,6 @@
 # Configuration
-baseURL: "https://example.com/"
-title: "Hextra"
+baseURL: "https://wiki.mentorsoutreach.org/"
+title: "Mentors Outreach"
 
 enableRobotsTXT: true
 enableGitInfo: true
@@ -21,7 +21,7 @@ languages:
   en:
     languageName: English
     weight: 1
-    title: Hextra
+    title: Mentors Outreach
   zh-cn:
     languageName: 简体中文
     languageCode: zh-CN
@@ -35,7 +35,7 @@ module:
 
   workspace: hugo.work
   imports:
-    path: github.com/imfing/hextra
+    path: https://github.com/Mentors-Outreach/hextra
 
 markup:
   goldmark:
@@ -133,7 +133,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra/edit/main/exampleSite/content"
+    base: "https://github.com/Mentors-Outreach/hextra/edit/main/exampleSite/content"
 
   blog:
     list:
