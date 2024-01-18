@@ -1,55 +1,189 @@
 ---
-title: Mentors Outreach Community in a Nutshell
+title: Getting Started
 weight: 1
 next: /docs/guide
 prev: /docs
 ---
 
-## Mentors Outreach Community in a Nutshell
+## Quick Start from Template
 
-💡 Browse the Home Screen
-It's the place where all the community posts will show in chronological order, the latest always on top. It's an overview of what is happening when it's happening.
+{{< icon "github" >}}&nbsp;[imfing/hextra-starter-template](https://github.com/imfing/hextra-starter-template)
+
+You could quickly get started by using the above template repository.
+
+<img src="https://docs.github.com/assets/cb-77734/mw-1440/images/help/repository/use-this-template-button.webp" width="500">
+
+We have provided a [GitHub Actions workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow) which can help automatically build and deploy your site to GitHub Pages, and host it for free.
+For more options, check out [Deploy Site](../guide/deploy-site).
+
+[🌐 Demo ↗](https://imfing.github.io/hextra-starter-template/)
+
+## Start as New Project
+
+There are two main ways to add the Hextra theme to your Hugo project:
+
+1. **Hugo Modules (Recommended)**: The simplest and recommended method. [Hugo modules](https://gohugo.io/hugo-modules/) let you pull in the theme directly from its online source. Theme is downloaded automatically and managed by Hugo.
+
+2. **Git Submodule**: Alternatively, add Hextra as a [Git Submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules). The theme is downloaded by Git and stored in your project's `themes` folder.
+
+### Setup Hextra as Hugo module
+
+#### Prerequisites
+
+Before starting, you need to have the following software installed:
+
+- [Hugo (extended version)](https://gohugo.io/installation/)
+- [Git](https://git-scm.com/)
+- [Go](https://go.dev/)
+
+#### Steps
+
+{{% steps %}}
+
+### Initialize a new Hugo site
+
+```shell
+hugo new site my-site --format=yaml
+```
+
+### Configure Hextra theme via module
+
+```shell
+# initialize hugo module
+cd my-site
+hugo mod init github.com/username/my-site
+
+# add Hextra theme
+hugo mod get github.com/imfing/hextra
+```
+
+Configure `hugo.yaml` to use Hextra theme by adding the following:
+
+```yaml
+module:
+  imports:
+    - path: github.com/imfing/hextra
+```
+
+### Create your first content pages
+
+Create new content page for the home page and the documentation page:
+
+```shell
+hugo new content/_index.md
+hugo new content/docs/_index.md
+```
+
+### Preview the site locally
+
+```shell
+hugo server --buildDrafts --disableFastRender
+```
+
+Voila, your new site preview is available at `http://localhost:1313/`.
+
+{{% /steps %}}
 
 
-💡 Update your profile
-Upload a photo, and add your name, bio, and your social network links so that everyone else can learn more about you.
+{{% details title="How to update theme?" %}}
+
+To update all Hugo modules in your project to their latest versions, run the following command:
+
+```shell
+hugo mod get -u
+```
+
+To update Hextra to the [latest released version](https://github.com/imfing/hextra/releases), run the following command:
+
+```shell
+hugo mod get -u github.com/imfing/hextra
+```
+
+See [Hugo Modules](https://gohugo.io/hugo-modules/use-modules/#update-all-modules) for more details.
+
+{{% /details %}}
+
+### Setup Hextra as Git submodule
+
+#### Prerequisites
+
+Before starting, you need to have the following software installed:
+
+- [Hugo (extended version)](https://gohugo.io/installation/)
+- [Git](https://git-scm.com/)
+
+#### Steps
+
+{{% steps %}}
+
+### Initialize a new Hugo site
+
+```shell
+hugo new site my-site --format=yaml
+```
+
+### Add Hextra theme as a Git submodule
+
+```shell
+git submodule add https://github.com/imfing/hextra.git themes/hextra
+```
+
+Configure `hugo.yaml` to use Hextra theme by adding the following:
+
+```yaml
+theme: hextra
+```
+
+### Create your first content pages
+
+Create new content page for the home page and the documentation page:
+
+```shell
+hugo new content/_index.md
+hugo new content/docs/_index.md
+```
+
+### Preview the site locally
+
+```shell
+hugo server --buildDrafts --disableFastRender
+```
+
+Your new site preview is available at `http://localhost:1313/`.
+
+{{% /steps %}}
 
 
-💡 Explore the available spaces
-On the left side of the screen, you will find the community spaces. Each space serves a different purpose, so explore them all.
+When using [CI/CD](https://en.wikipedia.org/wiki/CI/CD) for Hugo website deployment, it's essential to ensure that the following command is executed before running the `hugo` command.
+
+```shell
+git submodule update --init
+```
+
+Failure to run this command results in the theme folder not being populated with Hextra theme files, leading to a build failure.
 
 
-💡Hang out in the Members Lounge
-This is the only space where members can join and create new channels for interest groups, learning clusters, different clubs, and so on. Anyone in the community can create a space in the Members Lounge.
+{{% details title="How to update theme?" %}}
 
+To update all submodules in your repository to their latest commits, run the following command:
 
-💡 Create a post
-You have two options to create a post: 
-- Go to the space you want to add your post to and click "New post"
-- Click the plus button right next to the search bar and use the dropdown menu to pick the space you want your post to show.
+```shell
+git submodule update --remote
+```
 
-💡 Edit your post
-The post editor allows you to format the text, insert a GIF, and emojis, attach photos, and pick from different embedding options.
+To update Hextra to the latest commit, run the following command:
 
+```shell
+git submodule update --remote themes/hextra
+```
 
-💡 Tag members
-You can tag any other member in your posts or comments by simply using the "@" followed by their name.
+See [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) for more details.
 
+{{% /details %}}
 
-💡 Follow a post
-Following a post will make sure you get notified whenever someone adds a new comment to that post. Perfect for those interesting conversations you'd like to be inspired by!
+## Next
 
-
-💡 Report a post
-Whenever you find a post that breaks one of our rules of engagement, make sure you report it so that one of the Moderators can take action and keep this place safe and respectful.
-
-
-💡 Send direct and group messages
-You can send a direct message to any other member, or create a group message with a group of people.
-
-
-💡Personalise your notifications
-You control how and for what type of posts you get notified.
+Explore the following sections to start adding more contents:
 
 {{< cards >}}
   {{< card link="../guide/organize-files" title="Organize Files" icon="document-duplicate" >}}
