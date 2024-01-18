@@ -50,3 +50,9 @@ You can send a direct message to any other member, or create a group message wit
 
 💡Personalise your notifications
 You control how and for what type of posts you get notified.
+
+{{< cards >}}
+  {{< card link="../guide/organize-files" title="Organize Files" icon="document-duplicate" >}}
+  {{< card link="../guide/configuration" title="Configuration" icon="adjustments" >}}
+  {{< card link="../guide/markdown" title="Markdown" icon="markdown" >}}
+{{< /cards >}}
