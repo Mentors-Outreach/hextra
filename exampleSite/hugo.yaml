@@ -35,7 +35,7 @@ module:
 
   workspace: hugo.work
   imports:
-    path: https://github.com/Mentors-Outreach/hextra
+    path: github.com/Mentors-Outreach/hextra
 
 markup:
   goldmark:
