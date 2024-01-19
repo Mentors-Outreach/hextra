@@ -17,7 +17,7 @@ layout: hextra-home
 
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
-  Fast, batteries-included Hugo theme&nbsp;<br class="sm:block hidden" />for creating beautiful static websites
+New to a Mentors Outreach Platform? Kickstart your growth journey by completing the items outlined below.
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -30,7 +30,7 @@ layout: hextra-home
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="Learners"
-    subtitle="Discover how to start your development journey in Mentors Outreach Platform."
+    subtitle="Discover how to start your development journey in The Mentors Outreach Platform."
     class="aspect-auto md:aspect-[1.1/1] max-md:min-h-[340px]"
     image="images/hextra-doc.webp"
     imageClass="top-[40%] left-[24px] w-[180%] sm:w-[110%] dark:opacity-80"
@@ -53,12 +53,12 @@ layout: hextra-home
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="Lightweight as a Feather"
-    subtitle="No dependency or Node.js is needed to use Hextra. Powered by Hugo, one of *the fastest* static site generators, building your site in just seconds with a single binary."
+    title="Account management"
+    subtitle="Understand your account profile and settings in The Mentors Outreach Platform."
   >}}
   {{< hextra/feature-card
-    title="Responsive with Dark Mode Included"
-    subtitle="Looks great on different screen sizes. Built-in dark mode support, with auto-switching based on user's system preference."
+    title="Paths"
+    subtitle="Explore an overview of your path, including the structure, resources, and more."
   >}}
   {{< hextra/feature-card
     title="Build and Host for Free"
