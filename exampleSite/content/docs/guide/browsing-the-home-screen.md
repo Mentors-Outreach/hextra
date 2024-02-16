@@ -4,10 +4,10 @@ weight: 1
 prev: /docs/guide
 ---
 
-**Browsing the Home Screen on [https://social.mentorsoutreach.org/]**
+**Browsing the Home Screen on [Mentors Outreach community](https://social.mentorsoutreach.org/)**
 
-1. **Log in to [https://social.mentorsoutreach.org/]:**
-   - Open your web browser and navigate to the (Mentors Outreach community)[https://social.mentorsoutreach.org/] platform.
+1. **Log in to [Mentors Outreach community](https://social.mentorsoutreach.org/):**
+   - Open your web browser and navigate to the [Mentors Outreach community](https://social.mentorsoutreach.org/) platform.
    - Log in using your registered credentials.
 
 2. **Access the Home Screen:**
@@ -43,7 +43,7 @@ prev: /docs/guide
    - Get notified about new comments, likes, or mentions related to your posts or engagement.
 
 10. **Navigation Sidebar:**
-    - Navigate through the [https://social.mentorsoutreach.org/] platform using the sidebar.
+    - Navigate through the [Mentors Outreach community](https://social.mentorsoutreach.org/) platform using the sidebar.
     - Access other community spaces, messages, and settings from the sidebar menu.
 
 11. **Responsive Design:**
@@ -54,9 +54,3 @@ prev: /docs/guide
     - Customize your Home Screen view by adjusting display preferences or themes if available.
     - Tailor the platform to suit your preferences for a personalized experience.
 
-
-```markdown {filename="content/docs/my-page.md"}
-![](/images/image.png)
-```
-
-[page-bundles]: https://gohugo.io/content-management/page-bundles/#leaf-bundles
