@@ -5,50 +5,56 @@ next: /docs/guide
 prev: /docs
 ---
 
-## Mentors Outreach Community in a Nutshell
-💡 Browse the Home Screen
-It's the place where all the community posts will show in chronological order, the latest always on top. It's an overview of what is happening when it's happening.
+**Mentors Outreach Community Guide 🌐✨**
 
+Welcome to the heart of our community! Here's a quick guide to making the most out of your mentor outreach experience:
 
-💡 Update your profile
-Upload a photo, and add your name, bio, and your social network links so that everyone else can learn more about you.
+1. **Browse the Home Screen 🏡:**
+   - Stay up-to-date with the latest community posts in chronological order.
+   - The Home Screen provides a real-time overview of what's happening within the community.
 
+2. **Update Your Profile 🖼️:**
+   - Showcase your personality by uploading a photo and adding your name, bio, and social network links.
+   - Let everyone get to know you better through your personalized profile.
 
-💡 Explore the available spaces
-On the left side of the screen, you will find the community spaces. Each space serves a different purpose, so explore them all.
+3. **Explore Community Spaces 🌌:**
+   - Discover the diverse community spaces on the left side of the screen, each serving a unique purpose.
+   - Dive into different spaces to connect with like-minded individuals.
 
+4. **Hang out in the Members Lounge 🛋️:**
+   - Join the Members Lounge to create and join channels for interest groups, learning clusters, and clubs.
+   - Community members can contribute and initiate discussions in the Members Lounge.
 
-💡Hang out in the Members Lounge
-This is the only space where members can join and create new channels for interest groups, learning clusters, different clubs, and so on. Anyone in the community can create a space in the Members Lounge.
+5. **Create a Post 📝:**
+   - Choose your preferred method to create a post:
+     - Go to the specific space and click "New post."
+     - Click the plus button next to the search bar and select the space for your post.
 
+6. **Edit Your Post ✏️:**
+   - Utilize the post editor to format text, add GIFs, and emojis, attach photos, and explore various embedding options.
+   - Craft visually appealing and engaging posts with ease.
 
-💡 Create a post
-You have two options to create a post: 
-- Go to the space you want to add your post to and click "New post"
-- Click the plus button right next to the search bar and use the dropdown menu to pick the space you want your post to show.
+7. **Tag Members 🏷️:**
+   - Enhance engagement by tagging other members in your posts or comments using the "@" symbol followed by their name.
+   - Foster connections and involve specific community members in conversations.
 
-💡 Edit your post
-The post editor allows you to format the text, insert a GIF, and emojis, attach photos, and pick from different embedding options.
+8. **Follow a Post 🌟:**
+   - Stay connected to interesting conversations by following posts.
+   - Receive notifications whenever someone adds a new comment, ensuring you don't miss out on inspiring discussions.
 
+9. **Report a Post 🚨:**
+   - Help maintain a safe and respectful community by reporting any posts that violate our rules of engagement.
+   - Our Moderators will take prompt action to address reported issues.
 
-💡 Tag members
-You can tag any other member in your posts or comments by simply using the "@" followed by their name.
+10. **Send Direct and Group Messages 📬:**
+    - Engage in private conversations by sending direct messages to individual members.
+    - Collaborate with a group of people by creating group messages for seamless communication.
 
+11. **Personalize Your Notifications 🔔:**
+    - Take control of your notification preferences to tailor your experience.
+    - Receive notifications for the types of posts that matter most to you.
 
-💡 Follow a post
-Following a post will make sure you get notified whenever someone adds a new comment to that post. Perfect for those interesting conversations you'd like to be inspired by!
-
-
-💡 Report a post
-Whenever you find a post that breaks one of our rules of engagement, make sure you report it so that one of the Moderators can take action and keep this place safe and respectful.
-
-
-💡 Send direct and group messages
-You can send a direct message to any other member, or create a group message with a group of people.
-
-
-💡Personalise your notifications
-You control how and for what type of posts you get notified.
+Feel free to explore, connect, and contribute to making our community a vibrant and inspiring space for personal growth and collaboration! 🚀💬
 
 ## Next
 
