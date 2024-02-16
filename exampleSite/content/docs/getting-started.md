@@ -61,7 +61,7 @@ Feel free to explore, connect, and contribute to making our community a vibrant 
 Explore the following sections to start adding more content:
 
 {{< cards >}}
-  {{< card link="../guide/browsing-the-home-screen" title="Organize Files" icon="document-duplicate" >}}
-  {{< card link="../guide/configuration" title="Configuration" icon="adjustments" >}}
-  {{< card link="../guide/markdown" title="Markdown" icon="markdown" >}}
+  {{< card link="../guide/browsing-the-home-screen" title="Browsing the Home" icon="document-duplicate" >}}
+  {{< card link="../guide/upload-a-photo" title="Upload a Photo" icon="adjustments" >}}
+  {{< card link="../guide/edit-your-post" title="Edit Your Post" icon="adjustments" >}}
 {{< /cards >}}
