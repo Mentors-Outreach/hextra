@@ -68,11 +68,11 @@ menu:
       weight: 5
       params:
         type: search
-    - name: GitHub
+    - name: LinkedIn
       weight: 6
-      url: "https://github.com/imfing/hextra"
+      url: "https://www.linkedin.com/company/mentorsoutreach"
       params:
-        icon: github
+        icon: linkedin
 
   sidebar:
     - identifier: more
@@ -85,12 +85,12 @@ menu:
       pageRef: "/about"
       weight: 2
     - identifier: hugoDocs
-      name: "Hugo Docs ↗"
-      url: "https://gohugo.io/documentation/"
+      name: "Mentors Outreach Community ↗"
+      url: "https://social.mentorsoutreach.org/"
       weight: 3
 
 params:
-  description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
+  description: New to a Mentors Outreach Platform? Kickstart your growth journey by completing the items outlined below.
 
   navbar:
     displayTitle: true
