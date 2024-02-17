@@ -1,39 +1,40 @@
 ---
-linkTitle: "Documentation"
+linkTitle: "Mentors Outreach Documentation"
 title: Introduction
 ---
 
-👋 Hello! Welcome to the Hextra documentation!
+## Accelerate Your Growth
 
-<!--more-->
+Accelerate your career growth through mentorship, curated resources, and a supportive community. We bring together passionate individuals seeking personal development and career advancement to learn, inspire, and support each other on their unique journeys.
 
-## What is Hextra?
+## What You'll Discover in This Documentation
 
-Hextra is a modern, fast and batteries-included [Hugo][hugo] theme built with [Tailwind CSS][tailwind-css].
-Designed for building beautiful websites for documentation, blogs, and websites, it provides out-of-the-box features and flexibility to meet various requirements.
+- **Guides and Tutorials:** Uncover step-by-step guides tailored for learners, coaches, mentors, and professionals. Whether you're new to the platform or looking to deepen your understanding, our guides are crafted to help you navigate seamlessly.
 
-## Features
+- **Product Wikis:** Delve into comprehensive product wikis offering insights into account management, exploring paths, and making the most of Mentors Outreach features. Learn how to leverage the platform's capabilities to enhance your experience.
 
-- **Beautiful Design** - Inspired by Nextra, Hextra utilizes Tailwind CSS to offer a modern design that makes your site look outstanding.
-- **Responsive Layout and Dark Mode** - It looks great on all devices, from mobile, tablet to desktop. Dark mode is also supported to accommodate various lighting conditions.
-- **Fast and Lightweight** - Powered by Hugo, a lightning-fast static-site generator housed in a single binary file, Hextra keeps its footprint minimal. No JavaScript or Node.js are needed to use it.
-- **Full-text Search** - Built-in offline full-text search powered by FlexSearch, no additional configuration required.
-- **Battery-included** - Markdown, syntax highlighting, LaTeX math formulae, diagrams and Shortcodes elements to enhance your content. Table of contents, breadcrumbs, pagination, sidebar navigation and more are all automatically generated.
-- **Multi-language and SEO Ready** - Multi-language sites made easy with Hugo's multilingual mode. Out-of-the-box support is included for SEO tags, Open Graph, and Twitter Cards.
+- **Community Interaction:** Understand how to navigate the [Mentors Outreach community](https://social.mentorsoutreach.org/). Discover the Home Screen, explore community spaces, and unlock the potential for meaningful connections.
 
-## Questions or Feedback?
+- **Documentation Updates:** Stay informed about the latest enhancements, features, and best practices through our regularly updated documentation. We are committed to providing you with the most relevant and up-to-date information.
 
-{{< callout emoji="❓" >}}
-  Hextra is still in active development.
-  Have a question or feedback? Feel free to [open an issue](https://github.com/imfing/hextra/issues)!
-{{< /callout >}}
+## How to Make the Most of This Documentation
 
-## Next
+1. **Browse Categories:** Navigate through different categories to find documentation tailored to your interests.
 
-Dive right into the following section to get started:
+2. **Search Functionality:** Utilize the search bar to swiftly locate specific topics, guides, or troubleshooting information.
+
+3. **Feedback and Contributions:** Your feedback is invaluable to us. If you have suggestions, or corrections, or would like to contribute, please reach out through the provided channels.
+
+## Join the Mentors Outreach Community
+
+Connect with a diverse community of like-minded individuals on [https://social.mentorsoutreach.org/](https://social.mentorsoutreach.org/). Engage in discussions, share your experiences, and stay informed about the latest community updates.
+
+**Happy learning and growing!**
+
+*The Mentors Outreach Team*
 
 {{< cards >}}
-  {{< card link="getting-started" title="Getting Started" icon="document-text" subtitle="Learn how to create website using Hextra" >}}
+  {{< card link="getting-started" title="Getting Started" icon="document-text" subtitle="Mentors Outreach Community in a Nutshell" >}}
 {{< /cards >}}
 
 [hugo]: https://gohugo.io/
