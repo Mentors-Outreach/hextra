@@ -1,5 +1,5 @@
 ---
-title: Comments System
+title: Our Mission, Vision and Values
 linkTitle: Comments
 ---
 
