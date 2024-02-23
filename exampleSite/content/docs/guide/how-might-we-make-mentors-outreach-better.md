@@ -1,5 +1,5 @@
 ---
-title: Deploy Site
+title: How might we make Butter, better? ✨
 prev: /docs/guide/shortcodes
 next: /docs/advanced
 ---
