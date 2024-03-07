@@ -1,6 +1,6 @@
 ---
 title: Showcase
-description: "Open source projects powered by Hextra."
+description: "You've unlocked access to our full library of resources and development activities"
 toc: false
 layout: wide
 ---
@@ -8,12 +8,12 @@ layout: wide
 <div class="mt-4"></div>
 
 <p class="mb-12 text-center text-lg text-gray-500 dark:text-gray-400">
-Open source projects powered by Hextra.
+You've unlocked access to our full library of resources and development activities.
 </p>
 
 {{< cards >}}
-  {{< card link="https://developers.osuny.org" title="Osuny" image="https://raw.githubusercontent.com/noesya/osuny-developers/main/static/images/showcase-hextra/screenshot.png" imageStyle="object-fit:cover; aspect-ratio:16/9;" >}}
-  {{< card link="https://getporter.org/" title="Porter" image="https://repository-images.githubusercontent.com/155893691/aa249c80-fcf3-11ea-93b0-30079e8d7de4" imageStyle="object-fit:cover; aspect-ratio:16/9;" >}}
-  {{< card link="https://lutheranconfessions.org/" title="LutheranConfessions" image="https://github.com/imfing/hextra/assets/5097752/ad6625e4-88cd-4cad-b102-5399997d0359" imageStyle="object-fit:cover; aspect-ratio:16/9;" >}}
-  {{< card link="https://github.com/imfing/hextra-starter-template/" title="Hextra Starter Template" image="https://user-images.githubusercontent.com/5097752/263551418-c403b9a9-a76c-47a6-8466-513d772ef0b7.jpg" imageStyle="object-fit:cover; aspect-ratio:16/9;" >}}
+  {{< card link="https://developers.osuny.org" title="Job Boards" image="https://images.pexels.com/photos/1181401/pexels-photo-1181401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" imageStyle="object-fit:cover; aspect-ratio:16/9;" >}}
+  {{< card link="https://mentorsoutreach.org/resource-library/" title="Resource library" image="https://images.pexels.com/photos/1181248/pexels-photo-1181248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" imageStyle="object-fit:cover; aspect-ratio:16/9;" >}}
+  {{< card link="https://mentorsoutreach.org/resource-library/students/resume-resources/" title="Resume Resources" image="https://images.pexels.com/photos/4560150/pexels-photo-4560150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" imageStyle="object-fit:cover; aspect-ratio:16/9;" >}}
+  {{< card link="https://mentorsoutreach.org/resource-library/students/job-search/" title="Job seeker resources" image="https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" imageStyle="object-fit:cover; aspect-ratio:16/9;" >}}
 {{< /cards >}}

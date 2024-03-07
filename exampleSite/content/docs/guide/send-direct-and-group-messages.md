@@ -4,51 +4,24 @@ weight: 4
 math: true
 ---
 
-# Sending Direct Messages 📬
+# Sending a Direct Message:
 
-Look for the Direct Messages or Inbox section on the platform. This is typically represented by an envelope or speech bubble icon.
+There are two ways to initiate a direct message on [https://social.mentorsoutreach.org/](https://social.mentorsoutreach.org/):
 
-### Start a New Direct Message
+## Method 1: Using the Direct Messages Icon:
 
-Locate an option to start a new message or compose a new direct message.
-Select the member you want to message by typing their name in the recipient field.
+- Locate the Direct Messages icon in the top right corner of the [https://social.mentorsoutreach.org/](https://social.mentorsoutreach.org/) interface (both desktop and app). It resembles an envelope symbol.
+- Clicking the icon will open your direct message inbox. If you haven't had any previous conversations, you'll see a new message screen.
+In the "To" field, start typing the name of the member you want to message. [https://social.mentorsoutreach.org/](https://social.mentorsoutreach.org/) will suggest matching profiles as you type.
+- Select the desired member from the suggestions.
+- Compose your message in the text box below. You can also add emojis or format the text (bold, italics, etc.).
+- Once your message is ready, click the "Send" button.
 
-### Compose Your Message
+## Method 2: Sending a Direct Message from a Member's Profile:
 
-Use the message editor to compose your direct message.
-Add text, links, or media to enhance your message.
+- Navigate to the profile of the member you want to message. You can find their profile by searching for their name or clicking on their name within a post or comment.
+- On the member's profile page, look for the message icon (might be an envelope symbol or a text bubble icon).
+- Clicking this icon will directly open a new message window with the selected member already addressed in the "To" field.
+- Compose your message and click "Send" as described in Method 1.
 
-### Send the Direct Message
-
-Once your message is ready, look for a "Send" or "Submit" button.
-Confirm to send the direct message to the selected member.
-
-### Receive Notifications
-
-Both you and the recipient will receive notifications about the new direct message.
-Stay tuned for responses and continue the conversation.
-
-# Creating Group Messages 📬
-
-Look for the Direct Messages or Inbox section on the platform.
-
-### Start a New Group Message:
-
-Find an option to create a new group message or group chat.
-Add multiple members to the group by typing their names in the recipient field.
-
-### Compose Your Group Message
-
-Use the message editor to compose your group message.
-Include relevant information, announcements, or initiate a discussion.
-
-### Send the Group Message
-
-Once your group message is ready, look for a "Send" or "Submit" button.
-Confirm to send the group message to all selected members.
-
-### Engage in Group Discussions
-
-Members included in the group will receive notifications about the new message.
-Encourage group members to participate in discussions within the group chat.
 

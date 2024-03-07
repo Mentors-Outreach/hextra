@@ -9,11 +9,9 @@ weight: 2
 
 ## Upload a Photo:
 
-- Click on the profile picture or avatar to access the profile settings.
-- Follow the prompts to upload a photo from your device.
-- Ensure the image reflects you or your brand effectively.
-
-## Save Changes:
-
-- After uploading the photo, look for a "Save" or "Update Profile" button.
-Confirm your changes to save your new profile photo.
+- Click on your profile picture or name (whichever is displayed) in the top navigation bar. This should lead you to your profile page.
+- Find the **"Edit Profile"** section and click on it.
+- Locate the profile picture section and click on it. This might be indicated by an **"Edit"** option or a camera icon.
+- You'll be presented with options to upload a new photo or remove your current one.
+- Choose your desired photo from your computer's files.
+- Click ***"Save Changes"** to confirm the update.

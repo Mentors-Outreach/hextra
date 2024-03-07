@@ -15,7 +15,7 @@ In the post editor header, you'll find several useful options:
 
 - Close the editor to cancel post creation.
 
-![][https://assets.circle.so/pf646kcyw1tx59zmzhss5sy15xqr]
+![](https://assets.circle.so/pf646kcyw1tx59zmzhss5sy15xqr)
 
 In the footer of the post editor, you'll find additional options to fine-tune your post:
 
@@ -25,7 +25,7 @@ In the footer of the post editor, you'll find additional options to fine-tune yo
 
 - Choose the option for post-delivery. You can opt to save it as a draft for later, publish it immediately, or schedule it to be posted at a specific time.
 
-![][https://assets.circle.so/qafcpz8n0seyjo43sne9p18lscbf]
+![](https://assets.circle.so/qafcpz8n0seyjo43sne9p18lscbf)
 
 ### Step 2: Add a title
 
@@ -84,7 +84,7 @@ To start writing in the post, click anywhere in the body of the post editor. To 
 
 - Mention
 
-![][https://assets.circle.so/25252oyi7wtdbnp3654d3uhd3t3u]
+![](https://assets.circle.so/25252oyi7wtdbnp3654d3uhd3t3u)
 
 ℹ️ To embed a link with a preview directly within a post, press Enter after pasting the link in the editor. However, if you want to insert it as a clickable hyperlink, please press the Spacebar first after pasting the link.
 
@@ -105,7 +105,7 @@ To edit written text in the editor, you can also highlight the text by selecting
 
 - Hyperlink
 
-![][https://assets.circle.so/33roh8uhfs8v068dvgb7eyf7njbx]
+![](https://assets.circle.so/33roh8uhfs8v068dvgb7eyf7njbx)
 
 
 ### Step 5: Add media, embeds, and attachments

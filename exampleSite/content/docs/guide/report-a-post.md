@@ -4,34 +4,21 @@ weight: 6
 next: /docs/guide/shortcodes
 ---
 
-### Locate the Post
+# Reporting a Post on [https://social.mentorsoutreach.org/](https://social.mentorsoutreach.org/)
 
-Navigate to the post that you want to report. This can be done by scrolling through your feed or visiting the specific space where the post is located.
+[https://social.mentorsoutreach.org/](https://social.mentorsoutreach.org/) offers a way for members to report inappropriate content that violates community guidelines. Here's how to do it:
 
-### Access Report Options
+## Using the Website:
 
-Look for a "Report" or "Flag" option associated with the post. This is typically represented by an icon such as a flag or an ellipsis (...) that reveals additional actions.
+1. **Navigate to the Post:** Locate the post you want to report within your [https://social.mentorsoutreach.org/](https://social.mentorsoutreach.org/) community.
 
-### Select Reporting Reason
+2. **Access the Post Options:** Find the menu icon associated with the post. This is usually represented by three dots (...) and positioned in the top right corner of the post.
 
-Click on the "Report" or "Flag" option, and a menu or form will appear.
-Choose the appropriate reason for reporting the post. This could include options like harassment, spam, inappropriate content, etc.
+3. **Select "Report Post":** Clicking the menu icon will reveal a list of options. Choose "Report Post" from this list.
 
-### Provide Additional Details (if required)
+4. **Provide a Reason:** A pop-up window will appear with reporting reasons. Select the most appropriate reason that best describes the violation of the community guidelines. *Some common reasons for reporting might include: Spam, Hate Speech, Harassment, Bullying, Misinformation, etc.
 
-Some platforms may prompt you to provide additional details about why you are reporting the post.
-Fill in any required information or comments to support your report.
+5. **Optional: Add Explanation:** While selecting a reason is sufficient, you can also provide a brief explanation in the provided text box to elaborate on the issue with the post. This can help moderators understand the context better.
 
-### Submit the Report
+6. **Submit the Report:** Once you've chosen a reason (and optionally added an explanation), click the "Report" button to submit the report to the [https://social.mentorsoutreach.org/](https://social.mentorsoutreach.org/) moderation team.
 
-Look for a "Submit" or "Send" button to finalize and submit your report.
-Confirm the submission of the report to alert the platform moderators.
-
-### Receive Confirmation (if applicable)
-
-Depending on the platform, you may receive a confirmation message indicating that your report has been received.
-Note any reference or confirmation number provided for your records.
-
-### Moderator Review
-
-The platform's moderators will review the reported post and take appropriate action based on the violation reported.

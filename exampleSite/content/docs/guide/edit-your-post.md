@@ -3,32 +3,69 @@ title: Edit Your Post
 weight: 2
 ---
 
-## Create a Post:
+# Edit post content
 
-- Navigate to the space where you want to add your post.
-- Click "New post" in that space or use the plus button next to the search bar and select the space for your post.
+Once you have saved a post as a draft, scheduled it, or published it within the space, you can edit the post content and settings from a desktop or mobile browser.
 
-## Draft Your Post:
+To edit a published post, click the More actions (three dots) icon next to the post title and select Edit post.
 
-- Use the post editor to draft your content. Format text, insert images, GIFs, emojis, and explore embedding options.
-- Craft a post that effectively communicates your message.
+If you are trying to edit a draft or scheduled post, click the community name or logo in the top-left corner and select Posts. From there, hover over the post, click the More actions (three dots) icon next to the post, and select Edit post.
 
-## Edit Your Post:
+## Update your content
 
-- To make changes to an existing post, find the post you want to edit.
-- Look for an "Edit" or "Modify" option typically located near your post.
+To access the basic text formatting options, such as lists, blockquotes, and headings, when adding or updating content, you can type the forward-slash (/) command and select an option from the list.
 
-## Utilize Post Editor:
+To update or add formatting to any part of your post, you can highlight the text by selecting it. A formatting bar will appear with options such as:
 
-- The post editor allows you to make modifications to the text, insert or change images, and refine your post content.
-- Save the changes to update your post with the edited content.
+- Co-pilot
+- Bold
+- Italic
+- H2 and H3 headings
+- Strikethrough
+- Underline
+- Hyperlink
 
-## Verify Edits:
+ℹ️ To embed a link with a preview directly within a post, press Enter after pasting the link in the editor. However, if you want to insert it as a clickable hyperlink, please press the Spacebar first after pasting the link.
 
-- After editing, review your post to ensure the changes align with your intentions.
-- The updated post should reflect the edits you made.
+## Update post cover
 
-## Engage with Feedback:
+To replace or remove your post cover, hover over the current cover image and select the appropriate option. If you haven't added a cover yet, click the Add cover icon in the header to add a new cover image.
 
-- Engage with community members who respond to your post.
-- Reply to comments and foster discussions around your content.
+💡 Tip: If you are creating a post in a space with card layout, please ensure to add a dedicated card view thumbnail image for the post from the post settings (click Settings ⚙️ in the header) for great results.
+
+## Add media or embed content
+
+To insert media within your text, place your cursor where you want to add them and click the respective icon from the editor footer or type the forward-slash (/) command.
+
+## Remove media or embed content
+
+To remove any uploaded content from the post, hover over the content and click the X icon.
+
+If you’d like to remove any embedded content from the post, just like removing text, you can use the backspace or delete function.
+
+## Update the image alignment
+
+You have the option to update image alignment to the Left or Center. To update the image alignment, hover over the image and select the icon based on your preferred alignment.
+
+## Update post settings
+
+While editing your post, click Settings ⚙️ in the header of the post editor to access your post settings. Here, you can manage post’s meta information, control permissions, and add SEO information.
+
+📚 To explore the different configuration options, see Configure post settings.
+
+ℹ️ Note: The option to configure post settings is only available if you are an admin or moderator of the space editing this post on a desktop or mobile browser.
+
+## Delete a post
+
+The admin, moderator, or member who is the post's author can permanently remove the post from the community. It’s important to note that once the post is deleted, you cannot retrieve or view it in your community.
+
+To delete a post using a browser on a desktop or mobile:
+
+1. Locate the post within the space.
+2. Click the More actions (three dots) icon next to the post title, and select Delete post.
+3. Click Confirm to delete the post.
+
+To delete a post using the Circle mobile app:
+
+- Head to space and tap the post title.
+- Tap the More actions (three dots) icon next to the post title, and select Delete post.
