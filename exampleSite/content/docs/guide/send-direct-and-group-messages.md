@@ -6,7 +6,15 @@ math: true
 
 # Sending a Direct Message:
 
-There are two ways to initiate a direct message on [https://social.mentorsoutreach.org/](https://social.mentorsoutreach.org/):
+To send a direct message to a fellow community member, just head to their profile by clicking on their name from anywhere in the community. Then, click on Message to send them a DM.
+
+Whether you spot an interesting introduction, meet someone at a live event, or want to say hello to someone you come across in the community, DMs are a great way to connect with other members in the community.
+
+When DMing someone, please be sure to keep the following guidelines in mind:
+- Be kind and respectful.
+- Don’t promote, solicit, or spam.
+- Respect the privacy of other members.
+
 
 ## Method 1: Using the Direct Messages Icon:
 

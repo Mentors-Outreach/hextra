@@ -7,17 +7,9 @@ sidebar:
   open: true
 ---
 
-Explore the following sections to learn how to use Hextra:
+We’ve built our Mentors Outreach community using Circle, an all-in-one community platform. 
 
-<!--more-->
-
-{{< cards >}}
-  {{< card link="organize-files" title="Organize Files" icon="document-duplicate" >}}
-  {{< card link="configuration" title="Configuration" icon="adjustments" >}}
-  {{< card link="markdown" title="Markdown" icon="markdown" >}}
-  {{< card link="syntax-highlighting" title="Syntax Highlighting" icon="sparkles" >}}
-  {{< card link="latex" title="LaTeX" icon="variable" >}}
-  {{< card link="diagrams" title="Diagrams" icon="chart-square-bar" >}}
-  {{< card link="shortcodes" title="Shortcodes" icon="template" >}}
-  {{< card link="deploy-site" title="Deploy Site" icon="server" >}}
-{{< /cards >}}
+Unlike social media platforms, Circle:
+- Is built for communities just like ours. So whether you’re drafting a rich text post to share your insights, searching the member directory for others with similar interests, or joining us for a live event, you can engage with the community in whatever way suits you best.
+- Doesn’t have ads or distractions. Forget Facebook ads and Slack pings. We’re building a community where we can connect away from the noise.
+- Allows us to house everything in one place. With Circle, we’re able to keep  all community activity—discussions, resources, events, courses, chat, and more—in one easy-to-navigate place. This means that you only need to navigate one platform in order to take full advantage of your membership.

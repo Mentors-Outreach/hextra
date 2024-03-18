@@ -4,8 +4,6 @@ weight: 1
 prev: /docs/advanced
 ---
 
-# Community Guidelines
-
 Welcome to our space for sharing best practices, learning, collaborating, and connecting. As a community, we share the responsibility to keep this space safe, welcoming, inclusive, and empowering.
 
 These rules of engagement are our way to make sure we deliver on that responsibility. It's how we behave with each other, and what we expect from each other.
@@ -33,9 +31,6 @@ Find here all there is to know about navigating this space in a glimpse!
 
 ## 🔐 Privacy is a Big Deal
 Sharing is caring, but privacy is not something to be messed around with. Please do not post any personal information or photos that you wouldn’t want to be seen by the public.
-
-## 💬 Mentors Outreach Support
-The Mentors Outreach Community is a great spot to ask questions and receive answers on using Mentors Outreach like a Pro. If you’re looking for official support when it comes to technical questions, bugs, billing issues, etc., please try searching for this in the Mentors Outreach Handbook or contact our Customer Support on the website.
 
 ## 🕵️‍♀️ Spotted a Post That's Not Following These Operating Principles?
 Anyone can report a post by hovering over the three dots and clicking "Report." A Community Manager or one of our Moderators will review and take the appropriate actions. We reserve the right to remove posts or delete accounts if they infringe on the community guidelines.
